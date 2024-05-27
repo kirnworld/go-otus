@@ -1,4 +1,4 @@
-module github.com/kirnworld/hw01_hello_otus
+module github.com/kirnworld/go_otus
 
 go 1.19
 
