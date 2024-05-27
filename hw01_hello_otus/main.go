@@ -1,5 +1,11 @@
 package main
 
+import (
+	"fmt"
+
+	"github.com/ozgio/strutil"
+)
+
 func main() {
-	// Place your code here.
+	fmt.Print(strutil.Reverse("Hello, OTUS!"))
 }
